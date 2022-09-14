@@ -265,6 +265,8 @@ Active members of the Lodestone team:
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/Lodestone-Team/client?style=for-the-badge
 [contributors-url]: https://github.com/Lodestone-Team/client/graphs/contributors
+[frontend-contributors-shield]: https://img.shields.io/github/contributors/Lodestone-Team/landing-page?style=for-the-badge
+[frontend-contributors-url]: https://github.com/Lodestone-Team/landing-page/graphs/contributors
 <!-- [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
 [forks-url]: https://github.com/github_username/repo_name/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
