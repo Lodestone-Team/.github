@@ -19,7 +19,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+[![Client Contributors][contributors-shield]][contributors-url]
+[![Frontend Contributors][frontend-contributors-shield]][frontend-contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![Build][workflow-shield]][workflow-url]
 <!-- [![Forks][forks-shield]][forks-url]
