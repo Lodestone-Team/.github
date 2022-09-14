@@ -254,8 +254,9 @@ Active members of the Lodestone team:
 
 * [Peter Jiang (CheatCod)](https://github.com/CheatCod) - Lead Developer
 * [Kevin Huang (Ynng)](https://github.com/Ynng) - Frontend Lead
-* [Mark Sun (Lemonsity)](https://github.com/Lemonsity) - Developer
 * [Wilbur Zhang (Arclogger)](https://github.com/Arcslogger) - UI Designer, Logo Designer
+* [Mark Sun (Lemonsity)](https://github.com/Lemonsity) - Developer
+* [Luda Yu (ludayu560)](https://github.com/ludayu560) - Frontend Developer
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
