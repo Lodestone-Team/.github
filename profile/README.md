@@ -32,7 +32,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Lodestone-Team/client">
+  <a href="https://github.com/Lodestone-Team">
     <img src="lodestone_logo.svg" alt="Logo" width="80" height="80">
   </a>
 
