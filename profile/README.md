@@ -24,8 +24,6 @@ Lodestone core is written entirely in safe Rust, and uses`#![forbid(unsafe_code)
 
 Lodestone is created with security as a top priority. While most of the safety critical code such as login and permissions management have been tested thoroughly, **no formal security audit has been done for any part of Lodestone.**
 
-We recommend you to always have safe mode on within Lodestone for the best security, read more about safe mode [here](example.com).
-
 
 ## Contributing
 
