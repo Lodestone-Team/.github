@@ -45,3 +45,7 @@ Lodestone wouldn't be here if it weren't for our contributors. Check out their w
 - [Mark Sun (Lemonsity)](https://github.com/Lemonsity) - Developer
 - [Peter Jiang (CheatCod)](https://github.com/CheatCod) - Developer
 - [Wilbur Zhang (Arclogger)](https://github.com/Arcslogger) - Designer
+
+## Support Us
+
+We strieve to make Lodestone open source and free for everyone to use. If you like what we are making please consider [buying us a coffee](https://www.buymeacoffee.com/lodestoneteam) to support our development.
