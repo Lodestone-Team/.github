@@ -45,6 +45,6 @@ We strive to make Lodestone open source and free for everyone to use. If you lik
 
 ## Have questions?
 
-Checkout our Q&A here for more info: https://github.com/Lodestone-Team/lodestone/wiki/Q&A
+Checkout our Q&A here for more info: https://github.com/Lodestone-Team/lodestone/wiki/FAQ
 
 You can also join our [Discord](https://discord.gg/PkHXRQXkf6) to ask questions and help for setting up Lodestone.
