@@ -27,12 +27,12 @@ Lodestone is created with security as a top priority. While most of the safety c
 
 ## Contributing
 
-Lodestone is still new and we have **alot** of features planned for this year. Either way, we'd love to hear your feedback! If you have any suggestions, leave a GitHub issue or talk to us on our [Discord](https://discord.gg/PkHXRQXkf6).
+Lodestone is still new and we have **alot** of features planned for this year. Either way, we'd love to hear your feedback! If you have any suggestions, leave a GitHub [issue](https://github.com/Lodestone-Team/lodestone/issues) or talk to us on our [Discord](https://discord.gg/PkHXRQXkf6).
 
 
 ## License
 
-This project uses the GNU Affero General Public License v3.0. See our `LICENSE` files for details. For an alternate (commercial) license, please raise an issue.
+This project uses the GNU Affero General Public License v3.0. See our `LICENSE` files for details. For an alternate (commercial) license, please raise an [issue](https://github.com/Lodestone-Team/lodestone/issues).
 
 
 ## Team
